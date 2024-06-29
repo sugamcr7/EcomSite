@@ -5,7 +5,7 @@
       "id":"1",
       "name":"Basket Ball",
       "price":"1200",
-      "image": "./components/images/1.jpg",
+      "image": "src/components/images/1.jpg",
       "description":"Durable, grippy basketball for competitive play, designed for indoor and outdoor courts. Enhance your game with precision and control.",
       "rating":"★★★★★"
   },
