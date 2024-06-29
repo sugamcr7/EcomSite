@@ -1,0 +1,32 @@
+.banner img{
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+  }
+  .about-container{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    display: flex;
+  }
+  .image{
+    width: 600px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+    border-radius: 5px;
+
+  }
+  .right-description{
+    padding-left: 30px;
+  }
+  .about-heading{
+    text-align: center;
+    margin-top: 50px;
+  }
+  .right-description p{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.6;
+    margin-top: 20px;
+  }

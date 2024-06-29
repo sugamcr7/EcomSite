@@ -1,0 +1,227 @@
+.Frontbanner img{
+    width: 100%;
+    background-size: cover;
+    height: 700px;
+  }
+  
+  .about-container{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    display: flex;
+  }
+  .image{
+    width: 600px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+    border-radius: 5px;
+
+  }
+  .right-description{
+    padding-left: 30px;
+  }
+  .about-heading{
+    text-align: center;
+    margin-top: 50px;
+  }
+  .right-description p{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.6;
+    margin-top: 20px;
+  }
+  .front-heading{
+    position: absolute;
+    top:43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    color: #fff;
+    text-transform: uppercase;
+
+  }
+  .front-subheading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    color: #fff;
+
+  }
+  .front-btn{
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: none;
+    border: 1px solid #fff !important;
+    width: 12%;
+    padding: 13px;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  .service-container{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+  }
+  .service-heading{
+    margin-top: 20px;
+  }
+  .service-description{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.6;
+    margin-top: 20px;
+
+  }
+  .service-container .left{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #030303;
+    border-radius: 20px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+
+  }
+  .service-container .middle{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #030303;
+    border-radius: 20px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+
+  }
+  .service-container .right{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #030303;
+    border-radius: 20px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+
+  }
+  .icon-img{
+    width: 20%;
+  }
+  .service-container-2{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+  }
+  .service-container-2 .left{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #030303;
+    border-radius: 20px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+
+  }
+  .service-container-2 .middle{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #030303;
+    border-radius: 20px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+
+  }
+  .service-container-2 .right{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #030303;
+    border-radius: 20px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+
+  }
+  .blank{
+    background-color: #030303;
+    height: 150px;
+  }
+
+  .team{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+  }
+  .team .left{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 20px;
+    text-align: center;
+
+  }
+  .team .middle{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 20px;
+    text-align: center;
+
+
+  }
+  .team .right{
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 20px;
+    text-align: center;
+
+
+  }
+  .icon-img2{
+    width: 30%;
+    border-radius: 50px;
+    box-shadow:0 4px 8px 0 rgba(53, 162, 62, 0.2), 0 6px 20px 0 rgba(133, 190, 140, 0.19) ;
+  }
+  .service-sub{
+    color: #A1D511;
+    margin-top: 10px;
+  }
+  .team-description{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.6;
+    margin-top: 20px;
+
+  }
+  .icon-img3{
+    width: 35px;
+    margin: 5px;
+  }
+  .partner-image{
+    width: 600px;
+  }
+  .partner-description{
+    padding-top: 100px;
+    line-height: 1.8 !important;
+  }
+  .partner-container{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 25px;
+    display: flex;
+  }
+  .partner-heading{
+    text-align: center;
+    margin-top: 80px;
+
+  }

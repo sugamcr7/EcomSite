@@ -1,0 +1,140 @@
+.sport-header{
+    position: sticky;
+    top: 0;
+    min-height: 80px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background-color: #fff;
+    border-bottom: 5px solid #A1D511;
+}
+.logo{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #1a850e;
+    padding-left: 50px;
+    
+    font-size: 25px;
+    font-weight: bold !important;
+}
+.sport-link{
+    display: flex;
+    padding-right: 50px;
+}
+.sport-link ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+}
+.sport-link ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #030303;
+    padding: 0px 15px;
+}
+
+
+.sport-top-header{
+    position: sticky;
+    top: 0;
+    min-height: 40px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    background-color: #030303;
+    border-bottom: 3px solid #030303;
+}
+.sport-top-link{
+    display: flex;
+    padding-right: 50px;
+}
+.sport-top-link ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+}
+.sport-top-link ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    padding: 0px 15px;
+}
+.sport-email{
+    list-style: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 400;
+}
+.sport-email li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    padding: 0px 15px;
+    padding-left: 70px;
+}
+.fa-shopping-bag{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.fa-phone{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.fa-envelope-o{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.fa-map-marker{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.img1{
+    max-width: 200px;
+}
+.sport-cart-count{
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(210, 1, 1);
+    padding-right: 8px;
+    padding-left: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 50px;
+}
+.signup-btn{
+    background-image: linear-gradient(to right, #030303, #030303);
+    width: 100%;
+    padding: 9px;
+    border: none;
+    color: #fff;
+    font-size: 11px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.sport-email li a {
+    color: #A1D511;
+}
+.sport-top-link ul li a{
+    color: #A1D511;
+}
+.logoutbtn{
+    margin-bottom: 0px;
+    margin-left: 15px;
+    border: none;
+    background: none;
+    border: 1px solid #d70202;
+    background-color: #d70202;
+    color: #fff;
+    padding: 8px;
+    border-radius: 7px;
+    cursor: pointer;
+}
